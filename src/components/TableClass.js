@@ -43,7 +43,7 @@ render() {
         <div className="hero-content text-center">
             <div className="max-w-md">
                 <div className="overflow-x-auto">
-                    <h2>Currency Exchange Rates</h2>
+                    <h2>Currency Exchange Rates by FachriUmar</h2>
                     {time && <p>Waktu : {time}</p>}
                     {loading ? (
                     <p>Loading...</p>
